@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project provides a customizable Rainmeter skin to monitor disk usage for up to 4 different drives, including support for local drives and mapped network drives such as Google Drive.
+This project provides a customizable Rainmeter skin to monitor disk usage for up to 5 different drives, including support for local drives and mapped network drives such as Google Drive.
 
 ### Features
 
