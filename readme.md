@@ -6,7 +6,7 @@ This project provides a customizable Rainmeter skin to monitor disk usage for up
 
 ### Features
 
-Displays total and used disk space for up to 3 disks.
+Displays total and used disk space for up to 5 disks.
 Real-time disk usage monitoring.
 Clickable labels to open drives directly.
 Customizable appearance (font, colors, text size).
