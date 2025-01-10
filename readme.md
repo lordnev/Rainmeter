@@ -11,7 +11,7 @@ Real-time disk usage monitoring.
 Clickable labels to open drives directly.
 Customizable appearance (font, colors, text size).
 
-###Installation
+### Installation
 
 Ensure Rainmeter is installed.
 Clone or download this repository.
@@ -22,14 +22,14 @@ Copy the configuration files into your Rainmeter Skins directory.
 Refresh Rainmeter by right-clicking the tray icon and selecting Refresh All.
 Activate the skin through Rainmeter's interface.
 
-###License
+### License
 
 This project is licensed under the Creative Commons BY-NC-SA 3.0 license. See LICENSE for details.
 
-###Contributing
+### Contributing
 
 Feel free to submit issues or pull requests to improve this project.
 
-###Support
+### Support
 
 For any questions or support, please contact me.
