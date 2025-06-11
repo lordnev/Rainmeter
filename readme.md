@@ -33,3 +33,7 @@ Feel free to submit issues or pull requests to improve this project.
 ### Support
 
 For any questions or support, please contact me.
+
+### Stats
+
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Flordnev%2FRainmeter&label=GitStatts&countColor=%23263759&style=plastic&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Flordnev%2FRainmeter)
